@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi main.cpp)

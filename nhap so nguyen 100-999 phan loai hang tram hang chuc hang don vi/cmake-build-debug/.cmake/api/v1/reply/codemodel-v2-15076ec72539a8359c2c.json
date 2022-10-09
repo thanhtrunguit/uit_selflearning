@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi-Debug-2c955809f34c803e66e1.json",
+					"name" : "nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug",
+		"source" : "/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

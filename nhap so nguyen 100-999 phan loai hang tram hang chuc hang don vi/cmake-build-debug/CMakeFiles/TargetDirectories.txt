@@ -1,0 +1,3 @@
+/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/CMakeFiles/nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi.dir
+/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

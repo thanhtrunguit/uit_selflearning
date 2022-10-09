@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tinh_tong_binh_phuong_2_so_nguyen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tinh_tong_binh_phuong_2_so_nguyen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tinh_tong_binh_phuong_2_so_nguyen-Debug-697fdebdb87d326b3b9f.json",
+					"name" : "tinh_tong_binh_phuong_2_so_nguyen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/thanhtrung/coding materials/Day 1/tinh tong binh phuong 2 so nguyen/cmake-build-debug",
+		"source" : "/Users/thanhtrung/coding materials/Day 1/tinh tong binh phuong 2 so nguyen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
