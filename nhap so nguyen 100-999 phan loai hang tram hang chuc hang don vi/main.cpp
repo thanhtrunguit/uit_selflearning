@@ -11,7 +11,7 @@ int main ()
         cin >> integer_number;
         cout << "the integer_number is: " << integer_number << endl;
 
-        if(integer_number < 999 and integer_number > 101)
+        if(integer_number < 999 and integer_number > 100)
         {// return hundredth number
             cout << "hundredth: " << integer_number / 100 << endl;
 
