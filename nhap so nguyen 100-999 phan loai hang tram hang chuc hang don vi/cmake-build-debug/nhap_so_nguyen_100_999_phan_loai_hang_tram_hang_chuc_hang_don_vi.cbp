@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi">
+				<Option output="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi/fast">
+				<Option output="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/thanhtrung/coding_materials/uit-day-one/nhap\ so\ nguyen\ 100-999\ phan\ loai\ hang\ tram\ hang\ chuc\ hang\ don\ vi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/main.cpp">
+			<Option target="nhap_so_nguyen_100_999_phan_loai_hang_tram_hang_chuc_hang_don_vi"/>
+		</Unit>
+		<Unit filename="/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

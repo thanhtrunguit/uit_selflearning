@@ -1,4 +1,4 @@
-"/Users/thanhtrung/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/thanhtrung/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S "/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi" -B "/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"
+"/Users/thanhtrung/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi" -B "/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug"
 -- The C compiler identification is AppleClang 14.0.0.14000029
 -- The CXX compiler identification is AppleClang 14.0.0.14000029
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug
+-- Build files have been written to: /Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi
+# Install script for directory: /Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/thanhtrung/coding materials/Day 1/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/thanhtrung/coding_materials/uit-day-one/nhap so nguyen 100-999 phan loai hang tram hang chuc hang don vi/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

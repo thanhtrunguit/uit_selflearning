@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tinh_chu_vi_dien_tich_duong_tron.dir/main.cpp.o -o tinh_chu_vi_dien_tich_duong_tron 
