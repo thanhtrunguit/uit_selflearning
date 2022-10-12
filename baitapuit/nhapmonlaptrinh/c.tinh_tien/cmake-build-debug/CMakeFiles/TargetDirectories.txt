@@ -1,0 +1,3 @@
+/Users/thanhtrung/coding_materials/uit-day-one/baitapuit/nhapmonlaptrinh/c.tinh_tien/cmake-build-debug/CMakeFiles/c_tinh_tien.dir
+/Users/thanhtrung/coding_materials/uit-day-one/baitapuit/nhapmonlaptrinh/c.tinh_tien/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thanhtrung/coding_materials/uit-day-one/baitapuit/nhapmonlaptrinh/c.tinh_tien/cmake-build-debug/CMakeFiles/rebuild_cache.dir
