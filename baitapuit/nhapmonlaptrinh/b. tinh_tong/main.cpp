@@ -15,6 +15,7 @@ int main()
     //calculating processes
 
     cout << "sum: " << a + b << endl;
+    cout << "minus: " << a-b << endl;
     cout << "multiplication: " << a*b << endl;
     cout << "divide: " << a/b << endl;
 }
