@@ -7,7 +7,7 @@ int main()
     float price;
     float quantity;
     cout << "put in the product name: " ;
-    cin >> product_name;
+    getline(cin, product_name);
     cout << "put in the price: ";
     cin >> price;
     cout << "put in the quantity: ";
